@@ -16,7 +16,6 @@
     "lint-format-stage": "lint-staged",
     "analyze": "ANALYZE=true yarn build",
     "export": "next build && next export"
-
   },
   "dependencies": {
     "@headlessui/react": "^1.7.15",
